@@ -1,0 +1,4 @@
+ Install local LDAP server for Oracle entries
+ Install local repo for Oracle Enterprise Linux
+ Integrate OEM with MS Active Directory
+ 
